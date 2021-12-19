@@ -1,7 +1,7 @@
 # Minigrep
 Extended version of minigrep from Rust book.
 
-Features
+### Features
 - cool highlighting
 - works with stdin or file path
 
